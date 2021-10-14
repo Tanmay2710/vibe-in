@@ -18,7 +18,7 @@
 
 <html>
 <head>
-	<title>ViBe' In</title>
+	<title>ViBe'In</title>
 
 	<link rel="stylesheet" type="text/css" href="assets/css/register.css">
 
